@@ -1,4 +1,4 @@
-First, we have to add dependencies in the POM.xml file.
+First, we have to add the required dependencies in the POM.xml file.
 
 This project is based on selenium, JSON, Testng,Maven dependencies and Assertions.
 
@@ -12,4 +12,6 @@ A locator is a way to identify elements on a page. It is the argument passed to 
 
 -> In the fourth demo project, I have updated the computer and deleted the computer.
 
--> In the fifth demo project, I tried to add and verify the code
+-> In the fifth demo project, I tried to add and verify the website
+
+->Asserts are used in Selenium WebDriver for verifying and validating the scenario under test. A test scenario is considered “passed” if the achieved test result matches the expected test result. In this article, we will explore the difference between hard assertions and soft assertions, as well as when and why each of these techniques should be used.
